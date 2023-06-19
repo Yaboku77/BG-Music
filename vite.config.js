@@ -9,10 +9,10 @@ export default defineConfig({
     VitePWA({
       registerType: "autoUpdate",
       manifest: {
-        name: "Muxik",
-        short_name: "Muxik",
+        name: "Music",
+        short_name: "Music",
         description:
-          "Muxik is the ultimate destination for streaming and downloading music for free.",
+          "Music is the ultimate destination for streaming and downloading music for free.",
         icons: [
           {
             src: "/images/logo-192.png",
